@@ -1,6 +1,6 @@
 # Data-Science----item4-Naive-Bayes
 
-Doing mini projects to help learn to do Linear and Logistic regression as well Naive Bayes and Clustering 
+Doing mini projects to help learn to do Linear and Logistic regression as well Naive Bayes and Clustering: 
 
  1. Notebooks 
 The notebooks below contain the data analysis and ML code used for this project. Due to the intensive computing requirements for running the neural networks, the ML models were broken down into separate notebooks so they could be run in parallel in a high performance cloud computing environment. 
