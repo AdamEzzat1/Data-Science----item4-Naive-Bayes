@@ -11,5 +11,5 @@ The notebooks below contain the data analysis and ML code used for this project.
     - [Naive Bayes] (https://github.com/sethorus30/Machine_Learning/blob/master/Mini_Project_Naive_Bayes%20(1).ipynb)
      learning fundamental technique in Bayesian inference, called Naive Bayes.
     
-    - [Clustering] (https://github.com/sethorus30/Machine_Learning/blob/master/Mini_project_Clustering_2%20(3)%20(1).ipynb).
+    - [Clustering] (https://github.com/sethorus30/Machine_Learning/blob/master/Mini_project_Clustering_2%20(3)%20(1).ipynb).   
    
